@@ -8,7 +8,7 @@ SRC_URI = "git://git@github.com/cu-ecen-aeld/assignments-3-and-later-crankf16;pr
 
 PV = "1.0+git${SRCPV}"
 
-SRCREV = "0fd7e88fa97b42026316e0abb85f1c49b4966e2b"
+SRCREV = "5c251e7278099378c4d8902035a228e3ccc6d81b"
 
 S = "${WORKDIR}/git/server"
 
